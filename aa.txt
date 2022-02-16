@@ -13,3 +13,4 @@ githubでmasterにプルリクを出すよ
 ------
 ffff
 ffff
+こちらも変更しました。
