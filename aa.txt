@@ -13,6 +13,10 @@ githubでmasterにプルリクを出すよ
 ------
 ffff
 ffff
+<<<<<<< HEAD
 dddd
 ddddd
 
+=======
+こちらも変更しました。
+>>>>>>> 173268eedfb3c0210b00f9c589631d420753ec2b
