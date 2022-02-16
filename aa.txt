@@ -17,3 +17,4 @@ GitHub側で変更になりました。
 
 masterだけの修正
 test_branchだけに修正
+test_branch2だけに修正
