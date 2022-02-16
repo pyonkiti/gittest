@@ -17,4 +17,4 @@ ffff
 dddd
 ddddd
 こちらも変更しました。
-github上で変更
+github上で変更したのがこれ
