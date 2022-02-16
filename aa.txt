@@ -14,3 +14,5 @@ githubでmasterにプルリクを出すよ
 ffff
 ffff
 GitHub側で変更になりました。
+
+masterだけの修正
